@@ -1,0 +1,16 @@
+{
+  "name": "Turno TV",
+  "short_name": "TurnoTV",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fffaf5",
+  "theme_color": "#ff9d42",
+  "icons": [
+    {
+      "src": "./logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
